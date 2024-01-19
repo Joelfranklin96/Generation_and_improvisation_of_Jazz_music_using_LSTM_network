@@ -1,1 +1,1 @@
-# Generation_and_improvisation_of_Jazz_music_using_LSTM_network
+# Generation and improvisation of Jazz music using LSTM network
